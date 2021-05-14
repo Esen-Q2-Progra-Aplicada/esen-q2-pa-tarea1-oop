@@ -6,6 +6,9 @@ listas, if...else, arreglos, clases, herencia.
 
 ## Instrucciones
 
+Tiempo para la prueba: 300 minutos
+fecha hora de entrega: sabado 15, 11:55pm
+
 ### Clase Person
 
 crear una clase ```Person```:
